@@ -9,7 +9,7 @@ local.properties
 .settings/
 .loadpath
 .recommenders
-
+RemoteSystemsTempFiles
 # External tool builders
 .externalToolBuilders/
 
@@ -54,3 +54,5 @@ local.properties
 .cache-main
 .scala_dependencies
 .worksheet
+
+/*/Debug/
