@@ -56,3 +56,7 @@ RemoteSystemsTempFiles
 .worksheet
 
 /*/Debug/
+
+*.kicad_pcb-bak
+*.sch-bak
+/*/gerbers/
